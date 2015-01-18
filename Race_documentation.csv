@@ -1,0 +1,15 @@
+Variable,Description,Source
+Community,Community name,
+Community_area,Community area number,
+Pop_total,Total population,2008-2012 American Community Survey via Rob Paral and Associates
+Asian,Not Hispanic or Latino: Asian alone,2008-2012 American Community Survey via Rob Paral and Associates
+Black,Not Hispanic or Latino: Black or African American alone,2008-2012 American Community Survey via Rob Paral and Associates
+Latino,Hispanic or Latino,2008-2012 American Community Survey via Rob Paral and Associates
+White,Not Hispanic or Latino: White alone,2008-2012 American Community Survey via Rob Paral and Associates
+Other,Not Hispanic or Latino: Other,2008-2012 American Community Survey via Rob Paral and Associates
+Education_total,Total population for education stats,2008-2012 American Community Survey via Rob Paral and Associates
+Some_college,Some college,2008-2012 American Community Survey via Rob Paral and Associates
+College_or_higher,Bachelors or higher,2008-2012 American Community Survey via Rob Paral and Associates
+Poverty_total,Total population for poverty stats,2008-2012 American Community Survey via Rob Paral and Associates
+Below_poverty,Income below poverty line,2008-2012 American Community Survey via Rob Paral and Associates
+Index_crimes,Index crimes between 01-17-14 and 01-17-15,Chicago Police Department via Clear Map
